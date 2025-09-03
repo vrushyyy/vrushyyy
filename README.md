@@ -66,14 +66,14 @@
 ```
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrushyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vrushyyy&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💭 Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-**✨ Profile Views:** ![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+**✨ Profile Views:** ![Visitor Count](https://profile-counter.glitch.me/vrushyyy/count.svg)
